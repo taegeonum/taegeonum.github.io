@@ -17,14 +17,17 @@
     - Designed and implemented fast and efficient stream scaling mechanism on (AWS) Lambda to handle bursty loads with low latency. 
     - Evaluated Sponge on AWS EC2 and Lambda and showed that Sponge significantly reduces tail latencies compared to scaling out stream queries on virtual machines (VMs). 
 
+
   - **2020-Current, Blaze: A Unified Cost-Aware Caching for Iterative Data Analytics.**
     - Designed and implemented a unified cost-aware caching policy and mechanism on top of Apache Spark that minimizes disk access overheads (cost) of cached data.
     - Evaluated Blaze on AWS EC2 instances and improved the performance of Apache Spark from 1.02× to 2.86× on machine learning and graph processing workloads.
+
 
   - **2016-2018, MIST (a.k.a Pluto): High-Performance IoT-Aware Stream Processing.**
     - Designed and implemented a new stream procesing system optimized for IoT stream queries with an efficient query/code submission layer and IoT-aware execution layer.
     - Optimized the query execution layer with locality-aware event processing and resource sharing across IoT stream queries. 
     - Improved system performance by an order of magnitude compared to Storm and Flink on a 24-core machine.
+
 
   - **2014-2016, FAST: Effective Sharing for Optimizing Multiple Aggregate Continuous Queries in Data Streams.**
     - Designed and implemented an efficient computation sharing algorithm when multiple window queries are executed on a data stream.
@@ -41,6 +44,7 @@
  
   - 2019-2021 GSoC (Google summer of code) mentor for Apache Nemo
     - GsoC projects: Nemo on AWS Lambda, Automatic intermediate data caching on Nemo
+   
    
   - 2016-2018, MIST, core developer, (https://github.com/snuspl/mist)
 
