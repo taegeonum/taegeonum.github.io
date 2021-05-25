@@ -1,9 +1,15 @@
+
+## About me
+
+I am a PhD candidate at Seoul National University (SNU), advised by Prof. Byung-Gon Chun. 
+My research interest lies in building large-scale distributed (real-time) data processing systems, such as Hadoop, Spark and Flink streaming.
+
 ## Education 
   - 2014-Current, Ph.D (candidate). in Computer Science and Engineering, Seoul National University  (advisor: Byung-Gon Chun)
   
   - 2009-2014, B.A. in Computer Science and Engineering, Seoul National University 
 
-## Publication
+## Publications
   - ICDCS 2021 (to appear), Pluto: High-Performance IoT-Aware Stream Processing, **Taegeon Um**, Gyewon Lee, Byung-Gon Chun. 
   
   - APSys 2018, High-Performance Stateful Stream Processing on Solid-State Drives, Gyewon Lee, Jeongyoon Eo, Jangho Seo, **Taegeon Um**, Byung-Gon Chun. 
