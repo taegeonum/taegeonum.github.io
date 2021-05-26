@@ -5,7 +5,7 @@ I am a PhD candidate at Seoul National University (SNU) [Software Platform Lab (
 My research interest lies in building and optimizing large-scale distributed (real-time) data processing systems, such as Hadoop, Spark and Flink streaming.
 
   - Email: taegeonum at gmail dot com
-  - Github: https://github.com/taegeonum
+  - Github: [https://github.com/taegeonum](https://github.com/taegeonum)
 
 ## Education 
   - 2014-Present, Ph.D (candidate). in Computer Science and Engineering, Seoul National University
