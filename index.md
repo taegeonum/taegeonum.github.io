@@ -24,7 +24,6 @@ My research interest lies in building and optimizing large-scale distributed (re
 
   - **2016-2018, MIST (a.k.a Pluto): High-Performance IoT-Aware Stream Processing.**
     - Designed and implemented a new stream procesing system optimized for IoT stream queries with an efficient query/code submission layer and IoT-aware execution layer.
-    - Optimized the query execution layer with locality-aware event processing and resource sharing across IoT stream queries. 
     - Improved system performance by an order of magnitude compared to Storm and Flink on a 24-core machine.
 
 
