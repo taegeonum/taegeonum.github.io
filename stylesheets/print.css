@@ -1,0 +1,13 @@
+@media print {
+      h1 {
+        color: rgba(0, 0, 0, 0);
+        text-shadow: 0 0 0 #ccc;
+      }
+
+      @media print and (-webkit-min-device-pixel-ratio:0) {
+        h1 {
+          color: #ccc;
+          -webkit-print-color-adjust: exact;
+        }
+      }
+   }
