@@ -1,4 +1,6 @@
 #!/bin/bash
+
+rm index.md
 touch index.md
 cat intro.md >> index.md
 cat education.md >> index.md
