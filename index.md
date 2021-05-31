@@ -17,7 +17,7 @@ My research interest lies in building and optimizing large-scale distributed (re
 ## Research projects
   - **2019-Present, Sponge: Streaming Dataflow Reshaping for Fast Scaling Mechanism on Lambda.**
     - Designed and implemented a new stream processing system for fast and efficient scaling on (AWS) Lambda to handle bursty loads with low latency. 
-    - Evaluated Sponge on AWS EC2 instances (5 r5.xlarge) and Lambda (100~200 Lambda instances), and showed that Sponge significantly reduces tail latencies compared to scaling out stream queries on virtual machines (VMs) in handling streaming bursty loads. 
+    - Evaluated Sponge on AWS EC2 instances (5 r5.xlarge) and Lambda (100~200 Lambda instances), and showed that Sponge significantly reduces tail latencies compared to scaling out stream queries on EC2 instances (virtual machines) in handling streaming bursty loads. 
 
 
   - **2020-Present, Blaze: A Unified Cost-Aware Caching for Iterative Data Analytics.**
