@@ -2,7 +2,7 @@
 ## About me
 
 I am a PhD candidate at Seoul National University (SNU) [Software Platform Lab (SPL)](https://spl.snu.ac.kr/), advised by Prof. [Byung-Gon Chun](https://bgchun.github.io/). 
-My research interest lies in building and optimizing large-scale distributed (real-time) data processing systems.
+My research interest lies in building, designing, and optimizing large-scale distributed (real-time) data processing and pipeline systems.
 
   - Email: taegeonum at gmail dot com
   - Github: [https://github.com/taegeonum](https://github.com/taegeonum)
@@ -11,6 +11,7 @@ My research interest lies in building and optimizing large-scale distributed (re
 
 ## Education 
   - 2014-Present, Ph.D (candidate). in Computer Science and Engineering, Seoul National University
+    - Dissertation: End-to-end optimizations for fast and efficient IoT stream processing in the cloud
   - 2009-2014, B.A. in Computer Science and Engineering, Seoul National University 
 
 
@@ -22,16 +23,16 @@ My research interest lies in building and optimizing large-scale distributed (re
 
   - **2020-Present, Blaze: A Unified Cost-Aware Caching for Iterative Data Analytics.**
     - Designed and implemented a unified cost-aware caching policy and mechanism on top of Apache Spark that minimizes disk access overheads (cost) of cached data.
-    - Evaluated Blaze on AWS EC2 instances (10 r5.2xlarge) and improved the performance of Apache Spark from 1.02× to 2.86× on machine learning and graph processing workloads.
+    - Evaluated Blaze on AWS EC2 instances (10 r5.2xlarge) and improved the throghput of Apache Spark from 1.02× to 2.86× on machine learning and graph processing workloads.
 
 
   - **2016-2018, MIST (a.k.a Pluto): High-Performance IoT-Aware Stream Processing.**
     - Designed and implemented a new stream procesing system optimized for IoT stream queries with an efficient query/code submission layer and IoT-aware execution layer.
-    - Improved system performance by an order of magnitude compared to Storm and Flink on a 24-core machine.
+    - Improved query processing throughput by an order of magnitude compared to Storm and Flink on a 24-core machine.
 
 
   - **2014-2016, FAST: Effective Sharing for Optimizing Multiple Aggregate Continuous Queries in Data Streams.**
-    - Designed and implemented an efficient computation sharing algorithm when multiple stream queries with different window configurations process the data stream.
+    - Designed and implemented an efficient computation sharing algorithm when multiple stream queries process the same data stream with different window configurations.
     - Reduced the amount of duplicate window computations up to 82% compared to the state-of-the-art technique.
 
 
