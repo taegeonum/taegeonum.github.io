@@ -10,7 +10,7 @@ My research interest lies in building, designing, and optimizing large-scale dis
 
 
 ## Education 
-  - 2014-Present, Ph.D (candidate). in Computer Science and Engineering, Seoul National University
+  - 2014-Present, Ph.D (candidate). in Computer Science and Engineering, Seoul National University (Expected graduation date: August, 2021)
     - Dissertation: End-to-end optimizations for fast and efficient IoT stream processing in the cloud
   - 2009-2014, B.A. in Computer Science and Engineering, Seoul National University 
 
@@ -23,11 +23,12 @@ My research interest lies in building, designing, and optimizing large-scale dis
 
   - **2020-Present, Blaze: A Unified Cost-Aware Caching for Iterative Data Analytics.**
     - Designed and implemented a unified cost-aware caching policy and mechanism on top of Apache Spark that minimizes disk access overheads (cost) of cached data.
-    - Evaluated Blaze on AWS EC2 instances (10 r5.2xlarge) and improved the throghput of Apache Spark from 1.02× to 2.86× on machine learning and graph processing workloads.
+    - Evaluated Blaze on AWS EC2 instances (10 r5.2xlarge) and improved the throughput of Apache Spark from 1.02× to 2.86× on machine learning and graph processing workloads.
 
 
   - **2016-2018, MIST (a.k.a Pluto): High-Performance IoT-Aware Stream Processing.**
-    - Designed and implemented a new stream procesing system optimized for IoT stream queries with an efficient query/code submission layer and IoT-aware execution layer.
+    - Designed and implemented a new stream processing system optimized for IoT stream queries
+    - Designed and implemented a new query submission API and new thread-pool execution model with locality-aware processing.
     - Improved query processing throughput by an order of magnitude compared to Storm and Flink on a 24-core machine.
 
 
