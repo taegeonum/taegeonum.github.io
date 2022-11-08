@@ -1,7 +1,7 @@
 
 ## About me
 
-I am a PhD candidate at Seoul National University (SNU) [Software Platform Lab (SPL)](https://spl.snu.ac.kr/), advised by Prof. [Byung-Gon Chun](https://bgchun.github.io/). 
+I am a Software Enginner at Samsung Research. 
 My interest lies in building, designing, and optimizing large-scale distributed (real-time) data processing systems or machine learning systems (for training and inference) to efficiently process data with high throughput and low latency (in the cloud).
 
 
@@ -10,32 +10,37 @@ My interest lies in building, designing, and optimizing large-scale distributed 
 
 
 
-## Education 
-  - 2014-Present, Ph.D (candidate). in Computer Science and Engineering, Seoul National University (Expected graduation date: August, 2021)
+## Experience 
+  - 2021-Present, Software Engineer, Samsung Research
+  - 2014-2021, Ph.D. in Computer Science and Engineering, Seoul National University
     - Dissertation: End-to-end optimizations for fast and efficient IoT stream processing in the cloud
   - 2009-2014, B.A. in Computer Science and Engineering, Seoul National University 
 
 
 ## Research projects
-  - **2019-Present, Sponge: Streaming Dataflow Reshaping for Fast Scaling Mechanism on Lambda.**
+  - **2019-2022, Sponge: Streaming Dataflow Reshaping for Fast Scaling Mechanism on Lambda.**
     - Designed and implemented a new stream processing system for fast and efficient scaling on (AWS) Lambda to handle bursty loads with low latency. 
     - Evaluated Sponge on AWS EC2 instances (5 r5.xlarge) and Lambda (100~200 Lambda instances), and showed that Sponge significantly reduces tail latencies compared to scaling out stream queries on EC2 instances (virtual machines) in handling streaming bursty loads. 
+    - Skills: Java, Netty, Kafka, gRPC, protobuf, Hadoop, Apache Beam, Apache REEF, Apache Nemo, boto3
 
 
-  - **2020-Present, Blaze: A Unified Cost-Aware Caching for Iterative Data Analytics.**
+  - **2020-2021, Blaze: A Unified Cost-Aware Caching for Iterative Data Analytics.**
     - Designed and implemented a unified cost-aware caching policy and mechanism on top of Apache Spark that minimizes disk access overheads (cost) of cached data.
     - Evaluated Blaze on AWS EC2 instances (10 r5.2xlarge) and improved the throughput of Apache Spark from 1.02× to 2.86× on machine learning and graph processing workloads.
+    - Skills: Scala, Apache Spark, Hadoop, S3
 
 
   - **2016-2018, MIST (a.k.a Pluto): High-Performance IoT-Aware Stream Processing.**
     - Designed and implemented a new stream processing system optimized for IoT stream queries
     - Designed and implemented a new query submission API and new thread-pool execution model with locality-aware processing.
     - Improved query processing throughput by an order of magnitude compared to Storm and Flink on a 24-core machine.
+    - Skills: Java, Kafka, Flink, Netty, Storm, protobuf, Hadoop, Apache REEF
 
 
   - **2014-2016, FAST: Effective Sharing for Optimizing Multiple Aggregate Continuous Queries in Data Streams.**
     - Designed and implemented an efficient computation sharing algorithm when multiple stream queries process the same data stream with different window configurations.
     - Reduced the amount of duplicate window computations up to 82% compared to the state-of-the-art technique.
+    - Skills: Java, Storm, Netty
 
 
 
@@ -53,7 +58,8 @@ My interest lies in building, designing, and optimizing large-scale distributed 
 
 
 ## Publications
-  - ACM TOCS 2021 (to appear), Apache Nemo: A Framework for Optimizing Distributed Data Processing, Won Wook Song, Youngseok Yang, Jeongyoon Eo, Jangho Seo, Joo Yeon Kim, Sanha Lee, Gyewon Lee, **Taegeon Um**, Haeyoon Cho, Byung-Gon Chun. 
+  - Eurosys 2023 (to appear), FlowKV: A Semantic-Aware Store for Large-Scale State Management of Stream Processing Engines, Gyewon Lee, Jaewoo Maeng, Jinsol Park, Jangho Seo, Haeyoon Cho, Youngseok Yang, **Taegeon Um**, Jongsung Lee, Jae W. Lee, Byung-Gon Chun.
+  - ACM TOCS 2021, Apache Nemo: A Framework for Optimizing Distributed Data Processing, Won Wook Song, Youngseok Yang, Jeongyoon Eo, Jangho Seo, Joo Yeon Kim, Sanha Lee, Gyewon Lee, **Taegeon Um**, Haeyoon Cho, Byung-Gon Chun. 
   - ICDCS 2021, Pluto: High-Performance IoT-Aware Stream Processing, **Taegeon Um**, Gyewon Lee, Byung-Gon Chun. 
   - APSys 2018, High-Performance Stateful Stream Processing on Solid-State Drives, Gyewon Lee, Jeongyoon Eo, Jangho Seo, **Taegeon Um**, Byung-Gon Chun. 
   - ACM TOCS 2017, Apache REEF: Retainable Evaluator Execution Framework, Byung-Gon Chun, Tyson Condie, Yingda Chen, Brian Cho, Andrew Chung, Carlo Curino, Chris Douglas, Matteo Interlandi, Beomyeol Jeon, Joo Seong Jeong, Gyewon Lee, Yunseong Lee, Tony Majestro, Dahlia Malkhi, Sergiy Matusevych, Brandon Myers, Mariia Mykhailova, Shravan M. Narayanamurthy, Joseph Noor, Raghu Ramakrishnan, Sriram Rao, Russell Sears, Beysim Sezgin, **Taegeon Um**, Julia Wang, Markus Weimer, Youngseok Yang. 
@@ -66,6 +72,7 @@ My interest lies in building, designing, and optimizing large-scale distributed 
 
 
 ## Talks 
+  - 2022, Samsung Research, AI Forum, Accelerating deep learning training pipeline.
   - 2021, ICDCS, Online, Pluto: High-Performance IoT-Aware Processing.
   - 2020, Naver Techtalk, Pangyo, Korea, 캐싱 최적화로 스파크보다 더 빠르고, 메모리 효율적인 시스템 만들기 (Blaze).
   - 2017, APSys, Mumbai, India, Scaling up IoT Stream Processing.

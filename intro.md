@@ -1,7 +1,7 @@
 
 ## About me
 
-I am a PhD candidate at Seoul National University (SNU) [Software Platform Lab (SPL)](https://spl.snu.ac.kr/), advised by Prof. [Byung-Gon Chun](https://bgchun.github.io/). 
+I am a Software Enginner at Samsung Research. 
 My interest lies in building, designing, and optimizing large-scale distributed (real-time) data processing systems or machine learning systems (for training and inference) to efficiently process data with high throughput and low latency (in the cloud).
 
 
