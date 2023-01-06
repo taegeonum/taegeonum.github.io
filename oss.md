@@ -1,6 +1,6 @@
 
 ## Open source projects
-  - 2018-Present, [Apache Nemo (incubating)](https://github.com/apache/incubator-nemo), PMC and committer
+  - 2018-2021, [Apache Nemo (incubating)](https://github.com/apache/incubator-nemo), PMC and committer
     - Designed and implemented a stream processing runtime on Nemo
     - Supported streaming operations of [Apache Beam](https://beam.apache.org/)
   - 2019-2021, Google summer of code mentor 
