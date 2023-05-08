@@ -2,7 +2,7 @@
 
 rm index.md
 touch index.md
-echo "Taegeon Um" >> index.md
+cat intro.md >> index.md
 cat education.md >> index.md
 cat publications.md >> index.md
 cat oss.md >> index.md
