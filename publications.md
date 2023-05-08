@@ -1,5 +1,6 @@
 
 ## Publications
+  - 2023, ATC (to appear), \*Won Wook Song,**\* Taegeon Um**, Sameh Elnikety, Myeongjae Jeon, Byung-Gon Chun. Sponge: Fast Reactive Scaling for Stream Processing with Serverless Frameworks. (\* Equal contribution)
   - 2023, VLDB (to appear), _**Taegeon Um**, Byungsoo Oh, Byeongchan Seo, Minhyeok Kweun, Goeun Kim, Woo-Yeon Lee._ FastFlow: Accelerating Deep Learning Model Training with Smart Offloading of Input Data Pipeline. 
   - 2023, Eurosys (to appear), _Gyewon Lee, Jaewoo Maeng, Jinsol Park, Jangho Seo, Haeyoon Cho, Youngseok Yang, **Taegeon Um**, Jongsung Lee, Jae W. Lee, Byung-Gon Chun._ FlowKV: A Semantic-Aware Store for Large-Scale State Management of Stream Processing Engines.
   - 2022, IPDPS, _Minhyeok Kweun, Goeun Kim, Byungsoo Oh, Seongho Jung, **Taegeon Um**, Woo-Yeon Lee._ Pok´eMem: Taming Wild Memory Consumers in Apache Spark. 
