@@ -40,6 +40,9 @@ My interest lies in building, designing, and optimizing large-scale distributed 
     - Designed and implemented a unified cost-aware caching policy and mechanism on top of Apache Spark that minimizes disk access overheads (cost) of cached data.
     - Evaluated Blaze on AWS EC2 instances (10 r5.2xlarge) and improved the throughput of Apache Spark from 1.02× to 2.86× on machine learning and graph processing workloads.
     - Skills: Scala, Apache Spark, Hadoop, S3
+    - Publication
+      - 2024, EuroSys, Blaze: Holistic Caching for Iterative Data Processing
+        - _Won Wook Song, Jeongyoon Eo, **<U>Taegeon Um</U>**, Myeongjae Jeon, Byung-Gon Chun_. 
 
 
   - **2016-2018, MIST (a.k.a Pluto): High-Performance IoT-Aware Stream Processing.**
@@ -63,6 +66,8 @@ My interest lies in building, designing, and optimizing large-scale distributed 
 
 
 ## Publications
+  - 2024, EuroSys, Blaze: Holistic Caching for Iterative Data Processing
+     - _Won Wook Song, Jeongyoon Eo, **<U>Taegeon Um</U>**, Myeongjae Jeon, Byung-Gon Chun_. 
   - 2023, ATC, Sponge: Fast Reactive Scaling for Stream Processing with Serverless Frameworks ([pdf](https://www.usenix.org/system/files/atc23-song.pdf), [slide](https://www.usenix.org/system/files/atc23_slides_song.pdf))
      - _Won Wook Song, **<U>Taegeon Um</U>**, Sameh Elnikety, Myeongjae Jeon, Byung-Gon Chun_. 
   - 2023, VLDB, FastFlow: Accelerating Deep Learning Model Training with Smart Offloading of Input Data Pipeline ([pdf](https://www.vldb.org/pvldb/vol16/p1086-um.pdf), [slide](https://github.com/taegeonum/taegeonum.github.io/tree/main/slides/2023_vldb_fastflow.pdf), [code](https://github.com/SamsungLabs/FastFlow)). 

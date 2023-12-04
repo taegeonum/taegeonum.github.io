@@ -22,6 +22,9 @@
     - Designed and implemented a unified cost-aware caching policy and mechanism on top of Apache Spark that minimizes disk access overheads (cost) of cached data.
     - Evaluated Blaze on AWS EC2 instances (10 r5.2xlarge) and improved the throughput of Apache Spark from 1.02× to 2.86× on machine learning and graph processing workloads.
     - Skills: Scala, Apache Spark, Hadoop, S3
+    - Publication
+      - 2024, EuroSys, Blaze: Holistic Caching for Iterative Data Processing
+        - _Won Wook Song, Jeongyoon Eo, **<U>Taegeon Um</U>**, Myeongjae Jeon, Byung-Gon Chun_. 
 
 
   - **2016-2018, MIST (a.k.a Pluto): High-Performance IoT-Aware Stream Processing.**

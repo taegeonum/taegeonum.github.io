@@ -1,5 +1,7 @@
 
 ## Publications
+  - 2024, EuroSys, Blaze: Holistic Caching for Iterative Data Processing
+     - _Won Wook Song, Jeongyoon Eo, **<U>Taegeon Um</U>**, Myeongjae Jeon, Byung-Gon Chun_. 
   - 2023, ATC, Sponge: Fast Reactive Scaling for Stream Processing with Serverless Frameworks ([pdf](https://www.usenix.org/system/files/atc23-song.pdf), [slide](https://www.usenix.org/system/files/atc23_slides_song.pdf))
      - _Won Wook Song, **<U>Taegeon Um</U>**, Sameh Elnikety, Myeongjae Jeon, Byung-Gon Chun_. 
   - 2023, VLDB, FastFlow: Accelerating Deep Learning Model Training with Smart Offloading of Input Data Pipeline ([pdf](https://www.vldb.org/pvldb/vol16/p1086-um.pdf), [slide](https://github.com/taegeonum/taegeonum.github.io/tree/main/slides/2023_vldb_fastflow.pdf), [code](https://github.com/SamsungLabs/FastFlow)). 
