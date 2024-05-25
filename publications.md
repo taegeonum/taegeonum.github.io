@@ -1,5 +1,7 @@
 
 ## Publications
+  - 2024 (to appear), ATC, Metis: Fast Automatic Distributed Training on Heterogeneous GPUs ([pdf](), [slide]())
+     - _**<U>Taegeon Um</U>**, Byungsoo Oh, Minyoung Kang, Woo-Yeon Lee, Goeun Kim, Dongseob Kim, Youngtaek Kim, Mohd Muzzammil, Myeongjae Jeon_.
   - 2024, EuroSys, Blaze: Holistic Caching for Iterative Data Processing
      - _Won Wook Song, Jeongyoon Eo, **<U>Taegeon Um</U>**, Myeongjae Jeon, Byung-Gon Chun_. 
   - 2023, ATC, Sponge: Fast Reactive Scaling for Stream Processing with Serverless Frameworks ([pdf](https://www.usenix.org/system/files/atc23-song.pdf), [slide](https://www.usenix.org/system/files/atc23_slides_song.pdf))

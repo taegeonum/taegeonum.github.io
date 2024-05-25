@@ -1,6 +1,13 @@
 
 ## Research projects
 
+  - **2023-2024, Metis: Fast Automatic Distributed Training on Heterogeneous GPUs.**
+    - TBD 
+    - Publication
+      - 2024 (to appear), ATC, Metis: Fast Automatic Distributed Training on Heterogeneous GPUs ([pdf](), [slide]())
+        - _**<U>Taegeon Um</U>**, Byungsoo Oh, Minyoung Kang, Woo-Yeon Lee, Goeun Kim, Dongseob Kim, Youngtaek Kim, Mohd Muzzammil, Myeongjae Jeon_.
+
+
   - **2022-2023, FastFlow: Accelerating Deep Learning Model Training with Smart Offloading of Input Data Pipeline.**
     - Mainly designed and implemented a system that automatically offloads preprocessing operations to remote CPU resources in deep learning training jobs. 
     - Skills: TensorFlow, tf.data.service, Python, C++
