@@ -13,16 +13,15 @@ My interest lies in building, designing, and optimizing large-scale distributed 
 ## Experience 
   - 2021-Present, Staff Engineer, Samsung Research
   - 2014-2021, Ph.D. in Computer Science and Engineering, Seoul National University (advisor: [Byung-Gon Chun](https://bgchun.github.io))
-    - Dissertation: End-to-end optimizations for fast and efficient IoT stream processing in the cloud
   - 2009-2014, B.A. in Computer Science and Engineering, Seoul National University 
 
 
 ## Research projects
 
   - **2023-2024, Metis: Fast Automatic Distributed Training on Heterogeneous GPUs.**
-    - TBD 
+    - Led the project by providing guidance on key designs and concepts, and primarily wrote the paper. 
     - Publication
-      - 2024 (to appear), ATC, Metis: Fast Automatic Distributed Training on Heterogeneous GPUs ([pdf](), [slide]())
+      - 2024, ATC, Metis: Fast Automatic Distributed Training on Heterogeneous GPUs ([pdf](https://www.usenix.org/system/files/atc24-um.pdf), [slide]())
         - _**<U>Taegeon Um</U>**, Byungsoo Oh, Minyoung Kang, Woo-Yeon Lee, Goeun Kim, Dongseob Kim, Youngtaek Kim, Mohd Muzzammil, Myeongjae Jeon_.
 
 
